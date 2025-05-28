@@ -1,4 +1,4 @@
-# tomato_leaf_disease_detection
+# Tomatoe Leaf Detection
 
 # 1.  Problem statemet
  Given a dataset of tomato leaf images, the task is to develop a machine learning model that can accurately classify the images into different disease categories. The goal is to help farmers quickly identify and treat diseased tomato plants, thereby improving crop yield and reducing losses.
